@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FRalissia88
 - 👀 I’m interested in robotics, computer vision, industrial computing and electrical engineering.
-- 🌱 I’m currently learning C/C++ and Java.
+- 🌱 I’m currently learning OpenCV4 in C/C++.
 - I learn and speak French, English and German.
 
 <!---
